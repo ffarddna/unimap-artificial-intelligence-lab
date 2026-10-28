@@ -51,11 +51,8 @@ The labs explore fundamental Artificial Intelligence concepts through Python pro
 **Key Learning:** Understanding how memory and utility functions improve agent decision-making beyond simple reactive behaviour.
 
 ## Technologies Used
-
 - Python
-- Google Colab / Jupyter Notebook
-- Pandas
-- Scikit-learn
+- Google Colab
 - Git and GitHub
 
 ## Skills Demonstrated
